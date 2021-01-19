@@ -1,2 +1,5 @@
 create-your-open-textbook
 lets-start-at-the-very-beginning
+methods-for-befriending-misnamed-monsters
+where-to-find-creatures
+at-sea
